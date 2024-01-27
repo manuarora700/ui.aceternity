@@ -1,10 +1,7 @@
-import AnimatedTooltip from '../ui/AnimatedTooltip';
+//import ToolTip from '../uiAceternity/Tooltip';
 
 export default function Home() {
   return (
-    <>
-    <AnimatedTooltip/>
-    </>
-    
+    <h1 className="text-red-300 text-bold">hi</h1>
   );
 }
